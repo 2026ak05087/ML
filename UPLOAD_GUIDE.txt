@@ -1,0 +1,5 @@
+ICRISAT Machine Learning Assignment 2 - Complete project package
+
+For GitHub/Streamlit deployment, upload app.py, requirements.txt, README.md, dense_transformer.py, test_data.csv, and the complete model/ folder.
+The notebook, original dataset, prepared dataset, and assignment PDF are included for documentation and reproducibility.
+Keep dense_transformer.py in the repository root and preserve the model/ directory.
